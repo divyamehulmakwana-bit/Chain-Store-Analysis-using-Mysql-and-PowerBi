@@ -123,4 +123,19 @@ Created **4 dashboard pages** with slicers for **Country, Gender, Category, and 
 
 ---
 
-## 📂 Repository Structure
+## 🎯 Learnings
+- Hands-on experience in **data cleaning & transformation with SQL**.  
+- Designed **interactive dashboards** in Power BI with filters & KPIs.  
+- Gained insights into **retail customer behavior, product trends, and regional performance**.  
+
+---
+
+## 🔗 Screenshots
+![Sales Overview](https://github.com/divyamehulmakwana-bit/Chain-Store-Analysis-using-Mysql-and-PowerBi/blob/main/Screen%20Shots/Sales%20Overview%20Orange.png)  
+![Customer Analysis](https://github.com/divyamehulmakwana-bit/Chain-Store-Analysis-using-Mysql-and-PowerBi/blob/main/Screen%20Shots/Customer%20Analysis%20Orange.png)  
+![Product Analysis](https://github.com/divyamehulmakwana-bit/Chain-Store-Analysis-using-Mysql-and-PowerBi/blob/main/Screen%20Shots/Product%20Analysis%20Orange.png)  
+![Store Performance](https://github.com/divyamehulmakwana-bit/Chain-Store-Analysis-using-Mysql-and-PowerBi/blob/main/Screen%20Shots/Store%20Performance%20Orange.png)  
+
+---
+
+✨ If you like this project, feel free to **star the repo** ⭐
